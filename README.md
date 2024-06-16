@@ -9,5 +9,6 @@ This project represents my initial foray into game development. Although it’s 
 
 Here are the features that have been completed in this version:
 
-1. **Better Game Loop**: ~~~.
-2. **Player Class**: ~~~.
+1. **Better Game Loop**: Made the game loop better.
+2. **Player Class**: Made a Player class that inherits the entity class (which would be used for other entities in game, like the enemies).
+   
