@@ -16,6 +16,8 @@ import java.io.InputStream;
 
 import javax.imageio.ImageIO;
 
+import utilz.LoadSave;
+
 public class Player extends Entity{
 	
 	private BufferedImage[][] animations;
@@ -25,8 +27,8 @@ public class Player extends Entity{
     private boolean left , up , right , down;
     private float playerSpeed = 2.0f;
     
-	public Player(float x, float y) {
-		super(x, y);
+	public Player(float x, float y, int width , int height) {
+		super(x, y, width , height);
 		loadAnimations();
 	}
 	
@@ -38,7 +40,7 @@ public class Player extends Entity{
 	}
 
 	public void render(Graphics g) {
-		g.drawImage(animations[playerAction][aniIndex], (int) x, (int) y, 256, 160, null);
+		g.drawImage(animations[playerAction][aniIndex], (int) x, (int) y, width, height, null);
 	}
 	
     private void updateAnimationTick() { // Increment the animation tick counter and update animation frame
@@ -98,23 +100,12 @@ public class Player extends Entity{
     
 
 	 private void loadAnimations() { // Load animations from the sprite sheet
-			InputStream is = getClass().getResourceAsStream("/player_sprites.png"); // Load the sprite sheet from resources
-	        try {
-	            BufferedImage img = ImageIO.read(is); // Read the image from the input stream
-	            
+			
+		 	BufferedImage img = LoadSave.GetSpriteAtlas(LoadSave.PLAYER_ATLAS);
 	            animations = new BufferedImage[9][6]; // Initialize the 2D animations array with specific dimensions
 		        for (int j = 0; j < animations.length; j++)  // Iterate through the rows (different actions)
 		            for (int i = 0; i < animations[j].length; i++)  // Iterate through the columns (frames of each action)
 		                animations[j][i] = img.getSubimage(i * 64, j * 40, 64, 40); // Extract a subimage from the sprite sheet
-	        } catch (IOException e) { // Print the stack trace if there's an error
-	            e.printStackTrace();
-	        } finally {
-	            try {
-	                is.close(); // Close the input stream
-	            } catch (IOException e) { // Print the stack trace if there's an error
-	                e.printStackTrace();
-	            }
-	        }
 	            }
 	 
 	 public void resetDirBooleans() {
