@@ -12,5 +12,5 @@ Here are the features that have been completed in this version:
 1. **Better Game Loop**: Made the game loop better.
 2. **Player Class**: Made a Player class that inherits the entity class (which would be used for other entities in game, like the enemies).
 
-### Check out Demo.png for a behind-the-scenes look at the game, showcasing the gameplay and coding window.
+### Check out Showcase.png for a behind-the-scenes look at the game, showcasing the gameplay and coding window.
    
