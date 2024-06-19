@@ -13,4 +13,4 @@ Here are the features that have been completed in this version:
 2. **Added first level**: Added first level, created tiles system in game.
 
 ### Would work on collision detection next, v4.alpha coming soon (hopefully).
-### Check out Demo.png for a behind-the-scenes look at the game, showcasing the gameplay and coding window.
+### Check out Showcase.png for a behind-the-scenes look at the game, showcasing the gameplay and coding window.
