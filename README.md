@@ -9,11 +9,8 @@ This project represents my initial foray into game development. Although it’s 
 
 Here are the features that have been completed in this version:
 
-### 1.Collision Detection
-The collision system has been made more accurate, so characters now interact more naturally with obstacles and other elements in the game.
-### 2.Gravity System
-A new gravity system has been added, making characters' movements like falling and jumping more realistic.
-### 3.Minor Tweaks and Optimizations
-Small improvements have been made to the code to enhance overall game performance and stability.
+1.**Collision Detection**: The collision system has been made more accurate, so characters now interact more naturally with obstacles and other elements in the game.
+2.**Gravity System**: A new gravity system has been added, making characters' movements like falling and jumping more realistic.
+3.**Minor Tweaks and Optimizations**: Small improvements have been made to the code to enhance overall game performance and stability.
 
 ### Check out Showcase.png for a behind-the-scenes look at the game, showcasing the gameplay and coding window.
