@@ -11,6 +11,7 @@ Here are the features that have been completed in this version:
 ## Bugs Fixed
 
 **Fixed "No Gravity After Jump" Bug**: The character would lag and sometimes remain in the air after landing from a previous jump (see "Video_1" for reference). This bug has been fixed, and the character now moves smoothly (showcased in "Video_2").
+
 **Fixed Running Animation Bug**: The running animations were lagging and unclear, but I have fixed the issue, and they are now working smoothly.
 
 ## Showcase
