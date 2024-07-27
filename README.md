@@ -1,3 +1,5 @@
+# Sailor's Dream
+
 Embark on a magical journey through the vibrant, whimsical world of the Lost Isles in "Sailor's Dream", Step into the boots of our protagonist, a retired sailor whose adventures and imagination have conjured a fantastical archipelago like no other.
 
 ## Game Lore:
