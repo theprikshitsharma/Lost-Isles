@@ -11,6 +11,9 @@ Here are the features that have been completed in this version:
 2. **Game States:** I’ve implemented game states, including a pause menu (still in development) and the main gameplay state.
 3. **Bug Fixes:** Addressed and resolved issues with tile clipping. The game is currently free of bugs.
 
+## Showcase 
 
+### Main Character: Check out Character.png for the main character image.
+### Game State: Check out showcase.mp4 for a demonstration of the new pause game screen.
 
 
