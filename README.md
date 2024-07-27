@@ -2,7 +2,7 @@
 
 I’ve now got the main character in place and nailed down the theme. I was using a placeholder before, but the new character fits the theme perfectly and has an awesome backstory. Plus, I’ve decided on the game’s name!
 
-You can check out the character’s image in the "character.png" file in this branch. For the full lore and more details, head over to the main branch.
+You can check out the character’s image in the "Character.png" file in this branch. For the full lore and more details, head over to the main branch.
 ## Features Implemented
 
 Here are the features that have been completed in this version:
