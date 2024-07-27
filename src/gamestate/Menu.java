@@ -1,0 +1,61 @@
+package gamestate;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.event.KeyEvent;
+import java.awt.event.MouseEvent;
+
+import main.Game;
+
+public class Menu extends State implements Statemethods{
+
+	public Menu(Game game) {
+		super(game);
+	}
+
+	public void update() {
+
+		
+	}
+
+	public void draw(Graphics g) {
+		g.setColor(Color.BLACK);
+		g.drawString("MENU", Game.GAME_WIDTH / 2, 200);
+		g.drawString("Press Enter to Start the Game and Backspace to Return to the Menu", Game.GAME_WIDTH / 2, 300);
+		
+	}
+
+	public void mouseClicked(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void mousePressed(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void mouseReleased(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void mouseMoved(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void keyPressed(KeyEvent e) {
+		if (e.getKeyCode() == KeyEvent.VK_ENTER) {
+			System.out.println("Enter key pressed");
+			Gamestate.state = Gamestate.PLAYING;
+		}
+	}
+
+	public void keyReleased(KeyEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+}
