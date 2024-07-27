@@ -12,7 +12,7 @@ Once a fearless explorer of the open ocean, the sailor has seen it all – from 
 
 Retirement brought him to a cozy cottage by the shore, but his heart remained restless. Each night, as he drifts into slumber, his dreams bring forth a world only he could imagine – a world where his past adventures are reimagined in a fantastical light. It is here, in the Lost Isles, that his spirit finds freedom and his true nature as an adventurer shines once more.
 
-One day, while sleeping in his cottage near the shore, he dreamt of returning to where it all began – the first island he explored a decade ago. And this is where our game starts...
+One night, while sleeping in his cottage near the shore, he dreamt of returning to where it all began – the first island he explored a decade ago. And this is where our game starts...
 
 ## Game Controls:
 **Movement:** 
