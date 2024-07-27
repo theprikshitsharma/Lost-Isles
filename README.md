@@ -16,8 +16,8 @@ One night, while sleeping in his cottage near the shore, he dreamt of returning 
 
 ## Game Controls:
 **Movement:** 
-**W,D Keys to move left and right**
-**Spacebar to jump**
-**Left Click to attack**
+1. **W,D Keys to move left and right**
+2. **Spacebar to jump**
+3. **Left Click to attack**
 
 **Soon**
