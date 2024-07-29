@@ -1,6 +1,6 @@
-# Sailor's Dream
+# Lost Isles
 
-Embark on a magical journey through the vibrant, whimsical world of the Lost Isles in "Sailor's Dream", Step into the boots of our protagonist, a retired sailor whose adventures and imagination have conjured a fantastical archipelago like no other.
+Embark on a magical journey through the vibrant, whimsical world of the Lost Isles, Step into the boots of our protagonist, a retired sailor whose adventures and imagination have conjured a fantastical archipelago like no other.
 
 ## Game Lore:
 After decades of sailing the seven seas, our sailor hero, Captain Salty Sam, finally hangs up his captain's hat, seeking solace in a quaint seaside village. But the call of adventure is hard to ignore, and as he drifts into his dreams, the world around him transforms into the Lost Isles – a series of surreal and enchanting islands born from his vivid memories and boundless creativity.
