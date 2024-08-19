@@ -1,4 +1,4 @@
-# Platformer Paradise v6.alpha
+# Platformer Paradise v7.alpha
 
 
 ## Features Implemented
