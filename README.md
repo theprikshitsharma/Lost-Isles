@@ -19,5 +19,6 @@ One night, while sleeping in his cottage near the shore, he dreamt of returning 
 1. **W,D Keys to move left and right**
 2. **Spacebar to jump**
 3. **Left Click to attack**
+4. **Added versioon_8_alpha.com**
 
 **Soon**
